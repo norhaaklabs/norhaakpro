@@ -7,7 +7,7 @@ slug = "contact"
 
 Our primary communication channel is Email.
 
-Our email address is: NORHAAK @ PROTONMAIL.COM
+Our email address is: CONTACT @ NORHAAK.PRO
 
 In case of emergency, you can send an SMS.
 
