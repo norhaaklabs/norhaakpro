@@ -5,6 +5,61 @@
     <link>http://www.example.com/tags/</link>
     <description>Recent content in Tags on NHG | Norhaak Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Apr 2022 11:52:50 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#assange</title>
+      <link>http://www.example.com/tags/#assange/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#assange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#change</title>
+      <link>http://www.example.com/tags/#change/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#journalism</title>
+      <link>http://www.example.com/tags/#journalism/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#journalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#power</title>
+      <link>http://www.example.com/tags/#power/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#safety</title>
+      <link>http://www.example.com/tags/#safety/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#safetyandsecurity</title>
+      <link>http://www.example.com/tags/#safetyandsecurity/</link>
+      <pubDate>Tue, 12 Apr 2022 11:52:50 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/#safetyandsecurity/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
