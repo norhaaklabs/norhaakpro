@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NHG | Norhaak Group</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on NHG | Norhaak Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Apr 2022 14:05:20 +0100</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What the hack is NorHaak?</title>
+      <link>http://www.example.com/posts/what-the-hack-is-norhaak/</link>
+      <pubDate>Mon, 11 Apr 2022 14:05:20 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/what-the-hack-is-norhaak/</guid>
+      <description>Yes, that is a question we must answer first before you get to know us more.
+NorHaak is the name of this company, and too much thinkering has been done to compress our mission statement and raison d&amp;rsquo;etre in a single word.
+Nor for the northern star, as a universal guidance in darker nights, darker times.
+Nor is also the root of the name Mounir. It means light in Arabic.</description>
+    </item>
+    
+  </channel>
+</rss>
